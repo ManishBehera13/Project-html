@@ -32,7 +32,7 @@
         .timer-display {
             position: relative;
             width: 92%;
-            background: rgb(86, 86, 234);
+            background: dodgerblue;
             font-family: 'Roboto mono', monospace;
             color: white;
             font-size: 30px;
