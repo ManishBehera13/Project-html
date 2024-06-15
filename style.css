@@ -116,15 +116,4 @@
             border-top: 1px solid  rgba(68, 136, 224 );
             padding-top: 10px;
         }
-        .sign{
-            color: black;
-            
-            padding: 23px 32px;
-            display: inline;
-            
-            align-items: center;
-            width: 350px;
-            position: absolute;
-            top: 83%;
-            right: 2%;
-        }
+        
